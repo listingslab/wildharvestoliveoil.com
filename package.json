@@ -1,0 +1,15 @@
+{
+  "name": "wildharvestoliveoil.com",
+  "version": "1.0.0",
+  "description": "Harvesting olives from wild trees and relinquished groves",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/listingslab/wildharvestoliveoil.com.git"
+  },
+  "keywords": [
+    "olive oil",
+    "bootstrap"
+  ],
+  "author": "listingslab",
+  "license": "ISC"
+}
