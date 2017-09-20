@@ -23,18 +23,11 @@ ul, li {
     margin-top:15px;
 }
 
-.buy{
-  margin: auto;
-  border: 1px solid ;
-  width: 200px;
-  padding:10px;
+.btn-success{
   background: #485b24;
-  border-radius: 5px;
-  color: white;
-  font-size: 15px;
 }
 
-.buy:hover{
+.btn-success:hover{
   background: #647c3d;
 }
 
